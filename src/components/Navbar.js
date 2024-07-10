@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/18anupamsinha/Portfolio"
+                href="https://github.com/18anupamsinha/FinalPortfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
